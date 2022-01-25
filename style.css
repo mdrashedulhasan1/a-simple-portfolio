@@ -1,0 +1,35 @@
+body{
+    margin: 40px;
+}
+.half-width{
+    width: 50%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+button{
+    border-radius: 5px ;
+    background-color: #26ff00;
+    color: #e93434;
+    padding: 10px 20px;
+    border: 0;
+}
+section{
+    height: 400px;
+}
+.one-third{
+    width: 30%;
+    float: left;
+    margin-right:3%;
+}
+.one-third img{
+    width: 100%;
+    border-radius: 5%;
+}
+.one-third h3{
+    text-align: center;
+}
+ footer{
+     text-align: center;
+ }
